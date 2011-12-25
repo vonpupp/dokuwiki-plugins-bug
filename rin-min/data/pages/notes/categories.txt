@@ -1,0 +1,7 @@
+====== Categories ======
+
+{{topic>category &nodate&desc&sort}}
+{{topic>category &render = pagelist}}
+{{topic>category}}
+
+{{topic>category &nodate&desc&sort}}

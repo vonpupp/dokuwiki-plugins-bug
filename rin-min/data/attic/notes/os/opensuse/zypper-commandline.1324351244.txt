@@ -1,0 +1,5 @@
+====== Zypper commandline ======
+This is a zypper commandline page
+
+{{tag>opensuse}}
+

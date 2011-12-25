@@ -1,0 +1,43 @@
+====== Dokuwiki setup ======
+
+===== Used plugins & Compatibility =====
+
+| Dokuwiki                                                   ^ Comp  ^ Date        ^ Version  ^ Download  ^ GIT ^
+^ [[http://www.dokuwiki.org|DOKUWIKI]]                              || 2011-05-25a | Rincewind| [[|here]] | [[git://github.com/splitbrain/dokuwiki.git|git]] |
+^ PLUGINS                                                                                                  ||||||
+^ [[http://www.dokuwiki.org/plugin:blogtng|blogtng]]         | -ARA  | 2009-12-16  | ab8e844  | [[http://github.com/dokufreaks/plugin-blogtng/tarball/master|here]] | [[git://github.com/dokufreaks/plugin-blogtng.git|git]] |
+^ [[http://www.dokuwiki.org/plugin:changes|changes]]         | -ARA  | 2011-07-20  | e0e5285  | [[http://github.com/cosmocode/changes/tarball/master|here]] | [[git://github.com/cosmocode/changes.git|git]] |
+^ [[http://www.dokuwiki.org/plugin:cloud|cloud]]             | >2006 | 2010-01-07  | g3addccd | [[http://github.com/dokufreaks/plugin-cloud/tarball/master|here]] | [[git://github.com/dokufreaks/plugin-cloud.git|git]] |
+^ [[http://www.dokuwiki.org/plugin:gallery|gallery]]         | LARA  | 2010-04-30  | d2164e7  | [[http://github.com/splitbrain/dokuwiki-plugin-gallery/tarball/master|here]] | [[git://github.com/splitbrain/dokuwiki-plugin-gallery.git|git]] |
+^ [[http://www.dokuwiki.org/plugin:googleanalytics|googleanalytics]] | >2009 | latest | latest | [[https://github.com/tatewake/dokuwiki-plugin-googleanalytics/tarball/master|here]] | [[git://github.com/tatewake/dokuwiki-plugin-googleanalytics.git|git]] |
+^ [[http://dokuwiki.org/plugin:include|include]]             | -AR- | 2011-08-21  | ga75ed92  | [[https://github.com/dokufreaks/plugin-include/tarball/master|here]] | [[git://github.com/dokufreaks/plugin-include.git|git]] |
+^ [[http://dokuwiki.org/plugin:loadskin|loadskin]]           | LARA | 2011-02-07  | g329b62a  | [[http://github.com/selfthinker/dokuwiki-plugin-loadskin/tarball/master|here]] | [[git://github.com/selfthinker/dokuwiki-plugin-loadskin.git|git]] |
+^ [[http://www.dokuwiki.org/plugin:pagelist|pagelist]]       | LAR- | 2010-01-07  | gc3ac680  | [[http://github.com/dokufreaks/plugin-pagelist/tarball/master|here]] | [[git://github.com/dokufreaks/plugin-pagelist.git|git]] |
+^ [[http://dokuwiki.org/plugin:tag|tag]]                     | LAR- | 2011-03-20  | g36b4eb5  | [[http://github.com/dokufreaks/plugin-tag/tarball/master|here]] | [[git://github.com/dokufreaks/plugin-tag.git|git]] |
+^ [[http://www.dokuwiki.org/plugin:translation|translation]] | -AR- | 2010-12-10  | 526fe0f   | [[http://github.com/splitbrain/dokuwiki-plugin-translation/tarball/master|here]] | [[git://github.com/splitbrain/dokuwiki-plugin-translation.git|git]] |
+^ [[http://www.dokuwiki.org/plugin:vshare|vshare]]           | LARA | 2011-02-01  | e34d33a   | [[http://github.com/splitbrain/dokuwiki-plugin-vshare/tarball/master|here]] | [[git://github.com/splitbrain/dokuwiki-plugin-vshare.git|git]] |
+^ [[|plugin-name]]                                           | LARA | | | [[|here]] | [[|git]] |
+^ TEMPLATES                                                                                              ||||||
+ --- //[[vonpupp@gmail.com|Albert De La Fuente]] 2011/12/21 09:26//
+
+===== Other plugins =====
+  * Social (facebook's: I'like, Google plus': +1)
+  * GIT plugin? (URL)
+  * RPM/Yast plugin (URL)
+
+===== Missing functionalities =====
+  * Moving pages
+
+===== Snippets =====
+
+==== Identi.ca feed ====
+
+<WRAP info round left 40%>
+**identi.ca/vonpupp**
+{{rss>http://identi.ca/api/statuses/user_timeline/vonpupp.rss date}}
+</WRAP>
+<WRAP clear></WRAP>
+~~NOCACHE~~
+~~NOTOC~~
+
+===== Compatibility upgrade table =====

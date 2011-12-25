@@ -1,0 +1,39 @@
+====== Welcome to my notes ======
+
+Welcome to my notes.
+
+====== NEWS ======
+
+{{changes>ns = notes&count=15&render = pagelist}}
+
+{{changes>ns = blog&count=15&render = pagelist}}
+
+====== TAGCLOUD ======
+~~TAGCLOUD~~
+
+====== CLOUD ======
+~~CLOUD:150~~
+
+
+====== TEST ======
+LATEST NOTES ENTRIES:
+  * [[notes:freeshell|Link]]: How to create a free shell account
+  * [[notes:openwrt-setup|Link]]: How to setup openwrt
+  * [[notes:motivationvideo1|Link]]: Motivation video about sunblock
+
+  * pagelist
+<pagelist&header&comments&desc&tags&list&nofirsthl>
+  * [[:notes:|notes]]
+</pagelist>
+
+<pagelist&header&comments&desc&tags&list&nofirsthl>
+  * [[..:notes:|notes]]
+  * [[..:tag:|Tag Plugin]]
+  * [[..:wrap|Wrap Plugin|This is shown in the description cell]]
+</pagelist>
+
+/*
+  * topic shell list
+{{topic>shell}}
+{{count>+}}
+*/

@@ -1,0 +1,24 @@
+~~NOCACHE~~
+====== openSUSE ======
+{{tag>category}}
+
+  * [[notes:os:opensuse:zypper-commandline|openSUSE]]
+  * [[notes:os:opensuse:test1|t1]]
+  * [[notes:os:opensuse:test2|t2]]
+  * [[notes:os:opensuse:test3|t3]]
+
+OpenSUSE is a linux distribution, that can be donwloaded here
+
+I usually contribute to the project, you can find me here
+
+===== pagelist =====
+<pagelist&nodesc&notags&noheader>
+  * [[..opensuse:|Tag Plugin]]
+  * [[..tag:|Tag Plugin]]
+</pagelist>
+
+Topic: OpenSuse
+{{topic>opensuse &nodesc&notags&noheader}}
+
+Topic: OpenSuse &list&nodate&desc&sort
+{{topic>opensuse &list&nodate&desc&sort}}

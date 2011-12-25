@@ -1,0 +1,5 @@
+====== SW Development ======
+[[notes:sw:dev:home|SW Development]]
+
+====== Applications ======
+[[notes:sw:app:git|Git]]

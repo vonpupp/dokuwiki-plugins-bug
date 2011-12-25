@@ -1,0 +1,49 @@
+Hello,
+
+I'm building a dokuwiki based on Rincewind. I'm using the following plugin versions:
+
+| Dokuwiki ^ Date ^ GIT Version ^ Compatibility ^ Download ^
+^ DOKUWIKI | 2011-05-25a | | Rincewind | [[http://www.dokuwiki.org|here]] |
+^ blogtng | 2009-12-16 | ab8e844 | Rincewind | [[http://www.dokuwiki.org/plugin:blogtng|here]] |
+^ pagelist | 2010-01-07 | gc3ac680 | Rincewind | [[http://www.dokuwiki.org/plugin:pagelist|here]] | 
+^ tag | 2011-03-20 | g36b4eb5 | Rincewind | [[http://dokuwiki.org/plugin:tag|here]] |
+
+I have 3 pages with this content:
+Page: Test1
+====== openSUSE T1 ======
+{{tag>opensuse}}
+
+Page: Test2
+====== openSUSE T2 ======
+{{tag>opensuse}}
+
+Page: Test3
+====== openSUSE T3 ======
+{{tag>opensuse}}
+
+Then I have a 4th page to list the opensuse tags as follows:
+Page: Listing
+===== topic =====
+{{topic>opensuse &table}}
+
+The expected result should be a list with the posts with "opensuse" tags, but the rendered html result is:
+
+Topic: OpenSuse
+
+I've reported the issue on pagelist's issues too: https://github.com/dokufreaks/plugin-pagelist/issues/21, but on my opinion is more related with a blogtng, and here is why I think this:
+
+I've first tried Rincewind just with tag and pagelist plugin, and it seems to work fine: adding tags, editing and reindexing. After I install blogtng then any editing on the pages or reindexing the tags, produces pagelist/tag not to work.
+
+My objective is to have a "notes" namespace where each page can be tagged by i.e: {{tag>opensuse}}, and a "blog" namespace where I have some blog posts where each post is tagged by the blogtng fields editor, within Dokuwiki's editing UI.
+
+rin-min Dokuwiki's contain just tag and pagelist plugins
+rim-beta is a copy of rin-min including blogtng
+
+LOGIN: admin
+PASSWORD: q
+
+Any suggestions?
+
+Thanks a lot for your help and support!
+
+Regards.

@@ -1,0 +1,77 @@
+<?xml version="1.0" encoding="utf-8"?>
+<!-- generator="FeedCreator 1.7.2-ppt DokuWiki" -->
+<?xml-stylesheet href="http://localhost/rin-inc.albertdelafuente.com/lib/exe/css.php?s=feed" type="text/css"?>
+<rdf:RDF
+    xmlns="http://purl.org/rss/1.0/"
+    xmlns:rdf="http://www.w3.org/1999/02/22-rdf-syntax-ns#"
+    xmlns:slash="http://purl.org/rss/1.0/modules/slash/"
+    xmlns:dc="http://purl.org/dc/elements/1.1/">
+    <channel rdf:about="http://localhost/rin-inc.albertdelafuente.com/feed.php">
+        <title>Albert De La Fuente</title>
+        <description></description>
+        <link>http://localhost/rin-inc.albertdelafuente.com/</link>
+        <image rdf:resource="http://localhost/rin-inc.albertdelafuente.com/lib/tpl/vector/images/favicon.ico" />
+       <dc:date>2011-12-25T15:29:51-02:00</dc:date>
+        <items>
+            <rdf:Seq>
+                <rdf:li rdf:resource="http://localhost/rin-inc.albertdelafuente.com/doku.php/notes/os/opensuse/home?rev=1324833646&amp;do=diff"/>
+                <rdf:li rdf:resource="http://localhost/rin-inc.albertdelafuente.com/doku.php/notes/os/opensuse/zypper-commandline?rev=1324833119&amp;do=diff"/>
+                <rdf:li rdf:resource="http://localhost/rin-inc.albertdelafuente.com/doku.php/notes/os/openwrt/home?rev=1324833037&amp;do=diff"/>
+            </rdf:Seq>
+        </items>
+    </channel>
+    <image rdf:about="http://localhost/rin-inc.albertdelafuente.com/lib/tpl/vector/images/favicon.ico">
+        <title>Albert De La Fuente</title>
+        <link>http://localhost/rin-inc.albertdelafuente.com/</link>
+        <url>http://localhost/rin-inc.albertdelafuente.com/lib/tpl/vector/images/favicon.ico</url>
+    </image>
+    <item rdf:about="http://localhost/rin-inc.albertdelafuente.com/doku.php/notes/os/opensuse/home?rev=1324833646&amp;do=diff">
+        <dc:format>text/html</dc:format>
+        <dc:date>2011-12-25T15:20:46-02:00</dc:date>
+        <dc:creator>Albert De La Fuente</dc:creator>
+        <title>notes:os:opensuse:home</title>
+        <link>http://localhost/rin-inc.albertdelafuente.com/doku.php/notes/os/opensuse/home?rev=1324833646&amp;do=diff</link>
+        <description>category
+
+	*  openSUSE
+	*  t1
+	*  t2
+	*  t3
+
+OpenSUSE is a linux distribution, that can be donwloaded here
+
+I usually contribute to the project, you can find me here
+
+pagelist
+
+Topic: OpenSuse
+
+Topic: OpenSuse &amp;list&amp;nodate&amp;desc&amp;sort</description>
+    </item>
+    <item rdf:about="http://localhost/rin-inc.albertdelafuente.com/doku.php/notes/os/opensuse/zypper-commandline?rev=1324833119&amp;do=diff">
+        <dc:format>text/html</dc:format>
+        <dc:date>2011-12-25T15:11:59-02:00</dc:date>
+        <dc:creator>Albert De La Fuente</dc:creator>
+        <title>notes:os:opensuse:zypper-commandline</title>
+        <link>http://localhost/rin-inc.albertdelafuente.com/doku.php/notes/os/opensuse/zypper-commandline?rev=1324833119&amp;do=diff</link>
+        <description>This is a zypper commandline page
+
+Next header
+
+bla bla bla
+
+opensuse</description>
+    </item>
+    <item rdf:about="http://localhost/rin-inc.albertdelafuente.com/doku.php/notes/os/openwrt/home?rev=1324833037&amp;do=diff">
+        <dc:format>text/html</dc:format>
+        <dc:date>2011-12-25T15:10:37-02:00</dc:date>
+        <dc:creator>Albert De La Fuente</dc:creator>
+        <title>notes:os:openwrt:home</title>
+        <link>http://localhost/rin-inc.albertdelafuente.com/doku.php/notes/os/openwrt/home?rev=1324833037&amp;do=diff</link>
+        <description>category
+
+OpenWRT is an embedded linux distribution for networking.
+
+Here is a list of topics with the openwrt tag</description>
+    </item>
+</rdf:RDF>

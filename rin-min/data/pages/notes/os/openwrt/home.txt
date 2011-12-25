@@ -1,0 +1,9 @@
+====== Category: OpenWRT ======
+{{tag>category}}
+
+OpenWRT is an embedded linux distribution for networking.
+
+Here is a list of topics with the openwrt tag
+
+{{topic>openwrt}}
+{{topic>openwrt &nodate&desc&sort}}

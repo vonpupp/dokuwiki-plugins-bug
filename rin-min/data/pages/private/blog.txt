@@ -1,0 +1,7 @@
+== NEW ENTRY ==
+
+<blog newform>
+  title  Add a new page
+  blog   blog
+  format blog:%Y-%m-%d:%{title}
+</blog>

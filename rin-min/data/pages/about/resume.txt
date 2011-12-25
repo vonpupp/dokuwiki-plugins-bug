@@ -1,0 +1,7 @@
+====== Resume ======
+  * Resume in PDF
+    * In English (PDF) | (HR-XML)
+    * In Spanish (PDF) | (HR-XML)
+    * In Portuguese (PDF) | (HR-XML)
+    * In French (PDF) | (HR-XML)
+

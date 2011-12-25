@@ -1,0 +1,8 @@
+{{ home.jpeg}}
+Albert De La Fuente is a professional in the Information Technology field. Graduated as Engineer in [[http://en.wikipedia.org/wiki/Computer_science|Computer Science]] at the [[http://www.uma.es|Universidad de Málaga]] at [[http://www.malaga.eu/|Málaga]] (Spain), considers himself an enthusiast of computers and technology.
+
+I feel naturally atracted to:
+Libre/open source software, software development, embedded devices, networking, design, music, traveling, languages, photography, observing and thinking, and last but not least, The Bible.
+
+You can find some of my technical notes on my wiki [[http://example.com|here]], and some of my academic work [[academic:home|here]], some philosophical personal things to remember list [[thingstoremember|here]]. Finally [[blog:home|here]] is a link to my blog
+If you want to know more about me, take a look to my [[about:resume|resume / CV]], and feel free to [[about:contact|contact]] contact me.

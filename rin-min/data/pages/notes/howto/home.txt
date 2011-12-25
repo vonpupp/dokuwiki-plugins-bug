@@ -1,0 +1,9 @@
+====== HOW-TO ======
+{{tag>howto}}
+
+This section has some how-to's
+
+{{topic>howto &nodate&desc&sort}}
+
+How to get google in english
+http://www.google.com/search?{google:RLZ}{google:acceptedSuggestion}{google:originalQueryForSuggestion}{google:searchFieldtrialParameter}{google:instantFieldTrialGroupParameter}sourceid=chrome&ie={inputEncoding}&q=%s

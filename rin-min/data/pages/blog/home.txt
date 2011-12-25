@@ -1,0 +1,41 @@
+== PAGELIST1 ==
+
+<pagelist&table&showdate&showdate&showheader>
+  * [[:notes:]]
+</pagelist>
+
+== PAGELIST2 ==
+
+<pagelist&list>
+  * [[..:wiki:]]
+</pagelist>
+
+== PAGELIST3 ==
+
+<pagelist&list>
+  * [[wiki:|test]]
+</pagelist>
+
+== BLOG TAGCLOUD ==
+
+<blog tagcloud>
+  blog       blog
+  limit      25
+  target     :blog
+  listwrap   1
+</blog>
+
+== BLOG LIST ==
+
+<blog list>
+  blog   blog
+  tpl    blog
+  limit  2
+  sortby created
+  cache  0
+</blog>
+
+<blog pagination>
+  blog   blog
+  limit  2
+</blog>

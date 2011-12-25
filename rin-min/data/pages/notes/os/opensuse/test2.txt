@@ -1,0 +1,2 @@
+====== openSUSE T2 ======
+{{tag>opensuse}}

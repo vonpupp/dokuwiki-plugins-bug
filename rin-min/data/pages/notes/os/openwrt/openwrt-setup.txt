@@ -1,0 +1,3 @@
+{{tag>openwrt shell}}
+
+This is the procedure to create an openwrt install by shellscript

@@ -1,0 +1,3 @@
+  * [[private:blog|BLOG]]
+  * [[private:notes|NOTES]]
+  * [[private:dokuwiki:home|Dokuwiki]]
